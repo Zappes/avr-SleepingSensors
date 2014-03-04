@@ -5,6 +5,8 @@ What Is this?
 -------------
 The idea behind the project is to display some kind of sensor value on an LCD screen for a short while, thereafter putting the system into sleep mode. A button press wakes the system up - the sensor readings are refreshed and displayed for a certain time before the display is switched off again and the system goes into hibernation until the next button press.
 
+![Picture of the breadboard](https://github.com/Zappes/avr-SleepingSensors/blob/master/Fritzing/SleepingSensors_Foto.png?raw=true)
+
 With this project, I wanted to learn/practice the following things:
 
 * Writing code for the Arduino using standard C, the AVR libs and Eclipse instead of the oversimplified Arduino IDE.
