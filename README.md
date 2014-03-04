@@ -13,7 +13,7 @@ With this project, I wanted to learn/practice the following things:
 * Using interrupts.
 * Using a transistor. I've never done that before and I wanted to try it. :)
 
-The project has been created using an Arduino Mega, i.e. an ATmega2560 microcontroller. It should be portable to practically every other Arduino or plain Atmel controller, though. Actually, this will be my nect project: I want to do something similar using an ATmega328 and a temperature/humidity sensor. This project was the protoype for that plan.
+The project has been created using an Arduino Mega, i.e. an ATmega2560 microcontroller. It should be portable to practically every other Arduino or plain Atmel controller, though. Actually, this will be my next project: I want to do something similar using an ATmega328 and a temperature/humidity sensor. This project was the protoype for that plan.
 
 Hardware
 --------
