@@ -10,6 +10,7 @@ The idea behind the project is to display some kind of sensor value on an LCD sc
 With this project, I wanted to learn/practice the following things:
 
 * Writing code for the Arduino using standard C, the AVR libs and Eclipse instead of the oversimplified Arduino IDE.
+* Accessing an LCD.
 * Reading analog input.
 * Using the controller's sleep mode.
 * Using interrupts.
