@@ -1,9 +1,9 @@
 License-Stuff
 =============
 
-Licence Warning about the LCD-lib
+License Warning about the LCD-lib
 ---------------------------------
-I used source code from a tutorial for accessing the LCD. There was no licence on the site, so I have no clue what the licence may be. Better assume that you may not use that code for a commercial project, to be on the safe side. If necessary, try to find out who has the copyright and ask that person. In a friendly way.
+I used source code from a tutorial for accessing the LCD. There was no license on the site, so I have no clue what the license may be. Better assume that you may not use that code for a commercial project, to be on the safe side. If necessary, try to find out who has the copyright and ask that person. In a friendly way.
 
 The tutorial I used can be found here:
 
